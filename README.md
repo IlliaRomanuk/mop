@@ -13,9 +13,6 @@ The main goal of the project was to create a functional product page with:
 * Customer review sections
 * Mobile responsiveness
 
----
-live demo: https://mop-two.vercel.app/
----
 
 What Was Implemented
 
