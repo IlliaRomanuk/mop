@@ -33,6 +33,11 @@ Layout & Structure
 
 ---
 
+## Live Demo
+🔗 https://illiaromanuk.github.io/mop/
+
+---
+
 Styling
 
 * Created custom responsive styling with CSS3
